@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryjo90
-- 👀 I’m interested in neuroimaging, cognitive neuroscience, and psychology
+- 👀 I’m interested in neuroimaging, cognitive neuroscience, music, and psychology
 - 🌱 I’m currently learning imaging techniques and neuroscience
-- 💞️ I’m looking to collaborate on anything! haha
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
 <!---
